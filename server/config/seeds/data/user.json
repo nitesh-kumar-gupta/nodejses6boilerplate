@@ -1,0 +1,16 @@
+[
+    {
+        "firstname": "Admin1",
+        "middlename": "User",
+        "lastname": "Spu",
+        "email": "admin1@user.su",
+        "password": "adminuser1"
+    },
+    {
+        "firstname": "Admin2",
+        "middlename": "User",
+        "lastname": "Spu",
+        "email": "admin2@user.su",
+        "password": "adminuser2"
+    }
+]
