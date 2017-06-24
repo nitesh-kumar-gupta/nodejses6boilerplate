@@ -1,8 +1,0 @@
-.idea/
-.vscode/
-node_modules/
-npm-debug.*
-errorLogs/
-requestsLogs/
-dist/
-package-lock.json
